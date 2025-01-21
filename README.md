@@ -22,3 +22,6 @@ https://www.threads.net/@manulr.dev
 
 Roadmap Challenges:
 Single-Page CV - https://github.com/LPProg/roadmap/tree/main/SinglePageCV
+                 https://roadmap.sh/projects/single-page-cv
+
+
