@@ -4,6 +4,21 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Contact</title>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Home - Frontend Developer Portfolio</title>
+    <meta name="description" content="Welcome to my portfolio! I am a frontend developer showcasing my projects and skills.">
+    <meta name="keywords" content="frontend developer, portfolio, HTML, CSS, JavaScript">
+    <meta name="author" content="Your Name">
+    <meta name="robots" content="index, follow">
+    <link rel="icon" href="favicon.ico" type="image/x-icon">
+
+    <!-- Open Graph Tags -->
+    <meta property="og:title" content="Frontend Developer Portfolio">
+    <meta property="og:description" content="Explore my projects and work as a frontend developer.">
+    <meta property="og:image" content="path/to/home-og-image.jpg">
+    <meta property="og:url" content="https://yourwebsite.com/index.html">
+    <meta property="og:type" content="website">
 </head>
 <body>
     <header>
@@ -21,12 +36,21 @@
     </header>
     <main style="padding: 20px;">
         <h1>Contact Me</h1>
-        <p>If you'd like to get in touch, feel free to reach out:</p>
-        <ul>
-            <li>Email: <a href="mailto:manuelrebora23@gmail.com">Manuel</a></li>
-            <li>LinkedIn: <a href="https://www.linkedin.com/in/manuel-lopez-rebora/">Manuel lopez</a></li>
-            <li>GitHub: <a href="https://github.com/LPProg/roadmap">LPProg</a></li>
-        </ul>
+        <p>If you'd like to get in touch, please fill out the form below:</p>
+        <form action="submit_form.php" method="post" style="max-width: 500px; margin: auto;">
+            <label for="name">Name:</label><br>
+            <input type="text" id="name" name="name" placeholder="Enter your name" required style="width: 100%; padding: 8px; margin: 10px 0;"><br>
+
+            <label for="email">Email:</label><br>
+            <input type="email" id="email" name="email" placeholder="Enter your email" required style="width: 100%; padding: 8px; margin: 10px 0;"><br>
+
+            <label for="message">Message:</label><br>
+            <textarea id="message" name="message" rows="5" placeholder="Enter your message" required style="width: 100%; padding: 8px; margin: 10px 0;"></textarea><br>
+
+            <button type="submit" style="padding: 10px 20px; background-color: #333; color: white; border: none; cursor: pointer;">
+                Send Message
+            </button>
+        </form>
     </main>
     <footer style="text-align: center; padding: 20px;">
         <p>&copy; all rights reserved 2025</p>
