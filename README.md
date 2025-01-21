@@ -6,7 +6,7 @@ Why I'm Here
 To gain hands-on experience and enhance my skills, I plan to complete as many challenges and projects as possible from various roadmaps. These roadmaps will guide me through structured learning paths and practical tasks that I'll use to develop and showcase my abilities.
 
 In case you don´t know what I mean by Roadmaps, I leave the link below so if you are interested you can also partake in them.
-https://roadmap.sh/
+Link -(https://roadmap.sh/home)
 
 My Goals
 🛠 Build a solid foundation in Fullstack Development.
@@ -21,7 +21,6 @@ Here I´ll add my link to threads, which I don´t really use 24hrs, but I post u
 https://www.threads.net/@manulr.dev
 
 Roadmap Challenges:
-Single-Page CV - https://github.com/LPProg/roadmap/tree/main/SinglePageCV
-                 https://roadmap.sh/projects/single-page-cv
+Single-Page CV - (https://roadmap.sh/projects/single-page-cv)
 
 
