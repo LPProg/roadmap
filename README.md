@@ -22,5 +22,6 @@ https://www.threads.net/@manulr.dev
 
 Roadmap Challenges:
 Single-Page CV - (https://roadmap.sh/projects/single-page-cv)
+Basic HTML Website Project - (https://roadmap.sh/projects/basic-html-website)
 
 
