@@ -19,3 +19,6 @@ As I complete these challenges, I'll be documenting and displaying my progress h
 
 Here I´ll add my link to threads, which I don´t really use 24hrs, but I post updates or interesting things for me in the techworld.
 https://www.threads.net/@manulr.dev
+
+Roadmap Challenges:
+Single-Page CV - https://github.com/LPProg/roadmap/tree/main/SinglePageCV
